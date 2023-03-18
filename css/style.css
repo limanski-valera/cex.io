@@ -2385,7 +2385,7 @@ textarea.input {
     transition: all 0.3s;
   }
 
-  .societs-footer__link:hover {
+  .societs-footer__item:hover .societs-footer__link{
     fill: #ffffff;
   }
 
